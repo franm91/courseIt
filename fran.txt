@@ -2,4 +2,5 @@ Hola mundo
 
 
 esto es el segundo commit
+esto es conflicto
 esto es edit desde GitHub
